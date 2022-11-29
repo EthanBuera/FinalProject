@@ -2,15 +2,14 @@
 
 #### Your name
 
-TODO
+Ethan Buera
 
 #### Your section leader's name
 
-TODO
-
+Bin Li
 #### Project title
 
-TODO
+Fighting Game
 
 ***
 
@@ -18,12 +17,11 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+I have not done much in my project yet. I am trying to make a fighting game in Unity. I am still trying to learn the software and learning how to code in C#.
 
 #### What have you not done for your project yet?
 
-TODO
+Creating and animating the character. Creating a stage. Creating scripts for the character to move.
 
 #### What problems, if any, have you encountered?
-
-TODO
+Been encountering a lot of syntax errors with my scripts.
